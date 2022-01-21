@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Francisco, and I am in my last semester of Baruch studying Information Security and Risk Management.
-- 👀 I have two prior work experience in IT. My first experience came from working at a NYC public school as a DOE Technology Support intern, during my three years there I help maintain the school’s computer inventory, and assisted staff with any technology issue that came up. I also got to work on some amazing project, one being a Host monitoring tool that I created using python to help ping all the printers in the school and display wether the device was connected to the network or not. I also helped development an interactive inventory system using google sheets formulas. My second experience came from working as a security, privacy and Risk consultant this summer at RSM. During my time at RSM I assisted due diligence, risk analysis, and helped write out HITRUST policy for different clients. 
-- 🌱 I’m currently learning python and SQL, feel free to look through my repository to look at some of the projects I've worked on.  
+- 👋 Hi, I’m Francisco
+- 👀 Some side hobby of my are learning how to code. I hope to become profesion in python, and start to learn other languge like Java
+- 🌱 My goal is to become a Information Security expert 
 - 💞️ I’m looking to collaborate with anyone on any project
 <!---- 📫 How to reach me ...
 
